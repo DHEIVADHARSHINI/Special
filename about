@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>about me</title>
+</head>
+<body style="background-color:aliceblue">
+    <header>
+        <h1><i><center>About Me</center></i></h1>   
+    </header>
+    <div>
+    
+    <figure>
+        <img src="pic.jpg" style="float:right" width="250" height="250">
+       <figcaption>DHEIVA DHRASHINI</figcaption>
+    </figure>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, qui? Voluptas ad, dolorem itaque possimus explicabo rem doloribus consequatur exercitationem earum beatae facere quae! Quia ex, iusto reiciendis nihil optio repudiandae neque facilis sunt non similique, pariatur molestiae mollitia odit accusantium modi dolore aperiam aut, facere cupiditate temporibus? Quasi culpa, aperiam maiores odit ad tempora voluptates incidunt aliquam numquam atque! Molestiae necessitatibus saepe voluptates illo totam quas dolores autem nihil quidem dolore doloremque magnam iste placeat, quisquam vero nisi. Voluptas aliquam ducimus quibusdam in quia iste eligendi totam consequatur, neque ad molestiae exercitationem reprehenderit fugiat, aperiam, perspiciatis omnis illo repellat eum excepturi possimus magnam repudiandae quod. Dolore magni, voluptates distinctio placeat eos quam consequuntur ex earum quos. Facere obcaecati dolore cupiditate laborum, perferendis eius voluptatem velit. Veritatis iste facilis ea voluptas dolorum, obcaecati similique expedita quidem cupiditate laudantium reiciendis vitae voluptates nobis nemo eaque aspernatur deleniti magni incidunt consequuntur commodi. Ducimus commodi consequuntur voluptate vero aut temporibus ipsam iure beatae. Provident sapiente debitis praesentium deleniti quisquam? Totam, illo? Fugiat at debitis non aliquid aspernatur facilis voluptas accusamus officiis molestiae commodi, laboriosam illum incidunt, nulla iusto quam dolore, reiciendis et sed corrupti harum sit magni velit magnam. Nisi reiciendis sunt ipsum officiis repellendus id. Autem aut quae laudantium deserunt voluptatem minima adipisci asperiores numquam, voluptas deleniti nesciunt, ullam blanditiis! Eaque soluta perferendis voluptatibus, laborum voluptatem nobis atque ratione porro quas eos saepe quos! Voluptatibus ipsum quisquam tenetur eaque libero quos, repudiandae fuga, consequuntur unde voluptas provident natus! Cumque culpa mollitia expedita?</p>
+    <p> Am DHEIVA DHRASHINI L from Tirunelveli,Am Studied My School in Sarah Tucker Hr.Sec School,Palayamkottai.<br> And Finised my Bachelor Degree in sarah Tucker College,Perumalpuram</p>
+</div>
+<footer>
+    <h2> Contact Address</h2>
+    <pre>
+    <address>
+        29,Rose Nagar 3rd Street,
+        Reddiyar patti road,
+        Melapalayam,
+        Tirunelveli,
+        627005. 
+
+    </address>
+</pre>
+</footer>  
+</body>
+</html>
